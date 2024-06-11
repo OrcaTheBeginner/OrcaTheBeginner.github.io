@@ -3,6 +3,6 @@
     "development"
   ],
   "hints": {
-    "meta-viewport": "off"
+    "meta-viewport": "on"
   }
 }
